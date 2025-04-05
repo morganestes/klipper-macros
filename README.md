@@ -42,7 +42,7 @@ Here's the list of parameters you can configure:
 * [M900](/macros/M900.cfg)
 * [POWEROFF](/macros/POWEROFF.cfg)
 * [NOTIFY](/macros/NOTIFY.cfg)
-* [LAZY_HOME](/macros/LAZY_HOME.cfg)
+* [HOME](/macros/HOME.cfg)
 * [RETRACT](/macros/RETRACT.cfg)
 * [PAUSE_PARK](/macros/PAUSE_PARK.cfg)
 * [PRE_START](/macros/PRE_START.cfg)
